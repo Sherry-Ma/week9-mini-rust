@@ -1,6 +1,14 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Week9 mini rust project -- Fibonacci number
+This mini project is a command line tool that calculates the nth Fibonacci number using a recursive function called fib() and prints the result to the console.
 
-## References
+To run the program, type: `cargo run`
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+This will compile and run the program. You can then enter a number when prompted, and the program will calculate the corresponding Fibonacci number and print it to the console.
+ 
+```
+Enter a number: 
+10
+The 10th Fibonacci number is: 55
+```
+
+
